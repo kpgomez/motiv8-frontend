@@ -1,0 +1,12 @@
+.flex {
+  display: flex;
+  justify-content: center;
+  margin-right: 50px;
+}
+.d-grid,
+.gap-2,
+.col-6,
+.mx-auto {
+  background-color: #0d6efd;
+  margin-left: -5px;
+}
